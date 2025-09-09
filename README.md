@@ -1,8 +1,7 @@
 # Habitect
 An interactive, AI-powered design tool that helps astronauts, engineers, and space enthusiasts create and visualize personalized space habitats — whether on the ISS, the Moon, or Mars.
 
-![Uploading IMG_1271.png…]()
-
+<img width="1589" height="1010" alt="IMG_1272" src="https://github.com/user-attachments/assets/8905a592-72bf-4b4c-b6f2-a51250587b14" />
 
 
 🎯 Inspiration
