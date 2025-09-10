@@ -4,6 +4,26 @@ An interactive, AI-powered design tool that helps astronauts, engineers, and spa
 
 <img width="1589" height="1010" alt="IMG_1272" src="https://github.com/user-attachments/assets/8905a592-72bf-4b4c-b6f2-a51250587b14" />
 
+Technology Stack
+🔹 Frontend
+React / Next.js → Responsive web app & mobile-friendly UI
+TailwindCSS → Scalable, clean design system
+🔹 Backend
+Node.js (Express) / Python (FastAPI) → Core business logic
+GraphQL / REST APIs → Flexible data access
+🔹 Data & AI Layer
+PostgreSQL / MongoDB → Housing, urban, and user data
+Geospatial tools (PostGIS, Mapbox) → Smart mapping & urban planning
+AI/ML (TensorFlow / PyTorch) → Predictive analytics for housing demand, sustainability modeling
+🔹 Integration & Collaboration
+Web3 (Ethereum / Polygon) → Ownership records, smart contracts (optional, if emphasizing transparency)
+Cloud-native (GCP / AWS / Azure) → Scalability, data storage, and compute
+Containerization (Docker, Kubernetes) → Deployment & orchestration
+🔹 Security & Compliance
+OAuth 2.0 / OpenID Connect → Secure user authentication
+End-to-end encryption → Data protection
+Compliance APIs → Urban planning, regulatory frameworks
+👉 In essence: Habitect combines AI + geospatial data + cloud-native architecture with a collaborative digital platform, making housing and city planning smarter, sustainable, and community-driven.
 
 🎯 Inspiration
 Living in space requires balancing comfort, safety, and efficiency. Astronauts spend months in confined habitats, so layout optimization (sleeping, working, exercising, eating) is critical. A tool that combines engineering constraints with human-centered design could help future crews plan better living environments.
